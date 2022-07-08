@@ -4,7 +4,7 @@
 
 卷积神经网络实现手写数字识别
 
-![1655437949407](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1655437949407.png)
+![1655437949407](./figures/network.png)
 
 
 

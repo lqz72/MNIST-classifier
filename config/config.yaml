@@ -1,0 +1,9 @@
+# yaml
+data_path: './dataset/'
+epochs: 10
+batch_size: 64
+learning_rate: 0.001
+optimizer: Adam
+weight: './weight.pkl'
+
+
